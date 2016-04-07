@@ -1,0 +1,6 @@
+On the server side :
+	Run the code server.c as it is
+
+On the client side :
+	->Edit the address at line no. 38 in the file client.c as the server's address
+	->Run the code
